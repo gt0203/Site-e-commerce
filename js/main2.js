@@ -1,4 +1,5 @@
-
+//background change color
+// color 1 left color 2 right.... 1 color for 10 secondes
 var colors = new Array(
     [255,255,255],
     [166,166,166],
